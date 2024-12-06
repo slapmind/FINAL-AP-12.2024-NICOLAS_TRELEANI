@@ -1,0 +1,20 @@
+Plataforma de gestión IT:
+Nombre: FlowDesk
+
+3)
+* Como herramienta de gestión para el proyecto vamos a utilizar Trello.
+
+Caso de uso: Titulo: Gestión de tickets.
+Actor: Usuarios (Empleados, gerentes y usuarios externos).
+Objetivo: Crear y gestionar un ticket de soporte para resolver un problema.
+
+
+
+
+
+
+
+
+
+
+
