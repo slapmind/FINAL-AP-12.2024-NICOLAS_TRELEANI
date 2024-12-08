@@ -1,6 +1,3 @@
-Plataforma de gestión IT:
-Nombre: FlowDesk
-
 3)
 * Como herramienta de gestión para el proyecto vamos a utilizar Trello.
 
