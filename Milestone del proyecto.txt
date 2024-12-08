@@ -1,0 +1,38 @@
+Nombre: FlowDesk
+
+4)
+Hito 1:
+Diseño de la plataforma
+El objetivo es tener una visión clara de todas las funcionalidades clave que debe tener la plataforma y cómo deben interactuar los usuarios con ella.
+
+Tareas a realizar: 
+Identificar y documentar todas las funcionalidades que los usuarios y el sistema deben poder realizar. Realizar el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX), asegurando que sea intuitiva y fácil de usar. Definir la base de datos, infraestructura en nube y utilización de APIs.
+
+Fecha estimada de finalización: Este hito debe completarse en el primer mes del proyecto.
+
+Objetivo: Tener un prototipo de la plataforma funcional que muestre cómo debería operar FlowDesk, con la interfaz de usuario y la lógica básica implementada.
+
+Hito 2:
+Desarrollo del Módulo de Gestión de Tickets
+Desarrollar y probar los módulos principales de FlowDesk. El control de tickets es una de las funcionalidades mas criticas de la plataforma.
+
+Tareas a realizar:
+Implementar funcionalidades para crear, asignar, gestionar y cerrar tickets. Esto incluye seguimiento con notificaciones a los usuarios y técnicos. Realizar pruebas internas (QA) y de usabilidad para asegurar que el módulo funcione correctamente.
+
+Fecha estimada de finalización: Este hito debe completarse al final del tercer mes del proyecto.
+
+Objetivo: Tener el módulo implementado y funcionando correctamente, listo para ser utilizado en un entorno de prueba.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
